@@ -13,6 +13,10 @@ Photogram is a microservices-based project designed to provide a seamless experi
 - **Post Service**: Manages the creation, editing, and deletion of user posts.
 - **Feed Service**: Generates personalized feeds for users based on their preferences and activity.
 
+---
+🔨 **Work in Progress:** The microservices for Photogram are still under development!
+---
+
 ### Infrastructure Components:
 - **Spring Authorization Server**: Provides secure OAuth 2.0 authorization for the microservices.
 - **Spring Discovery Service (Eureka Server)**: Enables service discovery and registration within the microservices architecture.
