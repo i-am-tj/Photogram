@@ -14,7 +14,10 @@ Photogram is a microservices-based project designed to provide a seamless experi
 - **Feed Service**: Generates personalized feeds for users based on their preferences and activity.
 
 ---
-🔨 **Work in Progress:** The microservices for Photogram are still under development!
+
+## 🚧 Work in Progress
+The development of Photogram is ongoing, and the microservices are currently under construction. Stay tuned for updates on our progress!
+
 ---
 
 ### Infrastructure Components:
