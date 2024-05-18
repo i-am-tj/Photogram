@@ -44,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact Us 📧
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions, feedback, or suggestions, feel free to reach out to me at [tanuj.chakraborty21](mailto:tanuj.chakraborty21@example.com).
 
 Happy sharing and monetizing your moments with Photogram! 🎉
 
