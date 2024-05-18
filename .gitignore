@@ -1,0 +1,18 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Bytecode files
+*.jar
+
+# Compiled Java binaries
+/target/
+
+# IDE files
+/.idea/
+*.iml
+
+# Visual Studio files
+.vscode/
